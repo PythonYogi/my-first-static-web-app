@@ -21,6 +21,18 @@ main > h1 {
   font-size: 1.5em;
 }
 
+h2 {
+  color:plum;
+  font-size: 1.5em;
+}
+
+p {
+  font-size:medium;
+  font-style: italic;
+  margin-left:1em;
+  color:lightpink;
+}
+
 .center {
   display: block;
   margin-left: auto;
